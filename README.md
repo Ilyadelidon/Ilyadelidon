@@ -14,4 +14,4 @@ platforms
 * ⚙️ Currently building AI automations for order and document processing
 * 🛒 Maintaining a car marketplace and a logistics platform
 * 🤖 Writing Telegram bots that moderate, notify and never sleep
-* 💬 Open for work — [Upwork](https://www.upwork.com/freelancers/~01396d02800aa085bd?mp_source=share) · https://www.upwork.com/freelancers/~01396d02800aa085bd?mp_source=share
+* 💬 Open for work — [Upwork](https://www.upwork.com/freelancers/~01396d02800aa085bd?mp_source=share) · Illadelidon95@gmail.com
