@@ -9,7 +9,7 @@ logistics platforms, internal CRMs and AI-powered automations for teams
 who needed something that just works — and keeps working as they scale.
 
 My tools are PHP/Laravel, JavaScript, plus LLM APIs and automation
-platforms 
+platforms.
 
 * ⚙️ Currently building AI automations for order and document processing
 * 🛒 Maintaining a car marketplace and a logistics platform
